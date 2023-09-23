@@ -1,2 +1,3 @@
-# jubilant-waddle
-for particle
+# Git-Practice
+
+for particle of advanced git functinalities such as braching and merging
